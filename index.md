@@ -12,6 +12,7 @@ Register for updates and Columbia Quantum Meetup events to network with other st
 
 [👉 Register Here](https://forms.gle/hAKgMEhcr8v4KAwo8)
 
+---
 
 ## Quick Links
 - [Schedule](schedule.md)
