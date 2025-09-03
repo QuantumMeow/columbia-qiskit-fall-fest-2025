@@ -8,7 +8,7 @@ title: Columbia Qiskit Fall Fest 2025
 Welcome to the official site for Columbia University's Qiskit Fall Fest 2025!  
 Check back for updates on our schedule, speakers, and workshops.
 
-Register for updates and Columbia Quantum Meetup events to network with other students at Columbia.  
+Register for updates and potential opportunities to contribute in our quantum events.  
 
 [👉 Register Here](https://forms.gle/hAKgMEhcr8v4KAwo8)
 
@@ -16,10 +16,10 @@ Register for updates and Columbia Quantum Meetup events to network with other st
 
 ## Quick Links
 
-- [Organizers](team.md)
 - [Schedule](schedule.md)
 - [Speakers](speakers.md)
 - [Workshops](workshops.md)
+- [Organizers](team.md)
 - [Get Involved](https://forms.gle/hAKgMEhcr8v4KAwo8)
 
 ---
