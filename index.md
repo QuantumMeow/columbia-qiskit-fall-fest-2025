@@ -16,7 +16,7 @@ Register for updates and Columbia Quantum Meetup events to network with other st
 
 ## Quick Links
 
-- [Orginizers](team.md)
+- [Organizers](team.md)
 - [Schedule](schedule.md)
 - [Speakers](speakers.md)
 - [Workshops](workshops.md)
