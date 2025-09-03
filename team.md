@@ -4,10 +4,8 @@ We’re excited to introduce the organizing team for **Columbia Qiskit Fall Fest
 
 ---
 
-### Lead Organizer
+### Core Organizers
 - [Thomas Bustamante](https://www.linkedin.com/in/tombustamante/)
-
-### Co-organizers
 - [Tingyao Wang](https://www.linkedin.com/in/tingyaowang/)
 - [Jigyasa Sharma](https://www.linkedin.com/in/jigyasasharm/)
 - [Afia Fahmida Rahman](https://www.linkedin.com/in/afiafrahman/)  
