@@ -2,8 +2,6 @@
 title: Columbia Qiskit Fall Fest 2025
 ---
 
-# Columbia Qiskit Fall Fest 2025
-
 📍 Columbia University, New York City  
 📅 Fall 2025 (stay tuned!)
 
