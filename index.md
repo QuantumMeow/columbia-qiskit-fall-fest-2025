@@ -10,7 +10,7 @@ Check back for updates on our schedule, speakers, and workshops.
 
 Register for updates and Columbia Quantum Meetup events to network with other students at Columbia.  
 
-[👉 Register Here] https://forms.gle/hAKgMEhcr8v4KAwo8
+[👉 Register Here](https://forms.gle/hAKgMEhcr8v4KAwo8)
 
 
 ## Quick Links
