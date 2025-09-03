@@ -16,7 +16,7 @@ Register for updates and potential opportunities to contribute in our quantum ev
 
 ## Quick Links
 
-- [Schedule](schedule.md)
+- [Resources](resources.md)
 - [Speakers](speakers.md)
 - [Workshops](workshops.md)
 - [Organizers](team.md)
