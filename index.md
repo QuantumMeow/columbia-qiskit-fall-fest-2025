@@ -17,6 +17,7 @@ Register for updates and Columbia Quantum Meetup events to network with other st
 - [Schedule](schedule.md)
 - [Speakers](speakers.md)
 - [Workshops](workshops.md)
+
 ---
 
 ## Sponsors
