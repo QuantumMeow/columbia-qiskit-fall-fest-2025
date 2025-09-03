@@ -17,3 +17,9 @@ Register for updates and Columbia Quantum Meetup events to network with other st
 - [Schedule](schedule.md)
 - [Speakers](speakers.md)
 - [Workshops](workshops.md)
+---
+
+## Sponsors
+
+We thank our future sponsors for supporting Columbia Qiskit Fall Fest 2025.  
+(Logo placements and sponsor acknowledgments will go here.)
