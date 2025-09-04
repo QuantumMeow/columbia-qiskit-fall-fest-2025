@@ -24,6 +24,12 @@ Register for updates and potential opportunities to contribute in our quantum ev
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jO5L1VYMhGA?si=THcRPVEA-13IVce8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### What is Quantum Computing?
+
+---
+
 ## Sponsors
 
 We thank our future sponsors for supporting Columbia Qiskit Fall Fest 2025.  
