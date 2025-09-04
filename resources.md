@@ -2,6 +2,8 @@
 title: Resources
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dZWz4Gs_BuI?si=NiFYF4dqkarVTba_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Resources
 
 Here are some useful links and materials related to **Qiskit** and our Fall Fest events.
