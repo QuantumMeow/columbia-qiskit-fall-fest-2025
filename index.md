@@ -24,7 +24,7 @@ Register for updates and potential opportunities to contribute in our quantum ev
     <img src="{{ "/assets/images/sponsors/vece.jpg" | relative_url }}" alt="VECE Logo" style="height:100px; margin:0 10px;">
   </a>
   <a href="https://www.linkedin.com/company/columbiawdt/posts/" target="_blank">
-    <img src="{{ "/assets/images/sponsors/wdt.png" | relative_url }}" alt="WDT Logo" style="height:100px; margin:0 10px;">
+    <img src="{{ "/assets/images/sponsors/wdt.png" | relative_url }}" alt="WDT Logo" style="height:80px; margin:0 10px;">
   </a>
 
 </div>
