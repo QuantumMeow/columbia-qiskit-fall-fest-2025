@@ -18,13 +18,13 @@ Register for updates and potential opportunities to contribute in our quantum ev
 
 <div style="text-align:center; padding: 20px;">
   <a href="https://www.linkedin.com/company/technology-in-business-association/posts/" target="_blank">
-    <img src="{{ "/assets/images/sponsors/tiba.jpg" | relative_url }}" alt="TIBA logo" style="height:100px; margin:0 10px;">
+    <img src="{{ "/assets/images/sponsors/tiba.jpg" | relative_url }}" alt="TIBA logo" style="height:110px; margin:0 10px;">
   </a>
   <a href="https://www.linkedin.com/company/columbia-venture-capital-entrepreneurship-group/posts/" target="_blank">
     <img src="{{ "/assets/images/sponsors/vece.jpg" | relative_url }}" alt="VECE Logo" style="height:100px; margin:0 10px;">
   </a>
   <a href="https://www.linkedin.com/company/columbiawdt/posts/" target="_blank">
-    <img src="{{ "/assets/images/sponsors/wdt.jpg" | relative_url }}" alt="WDT Logo" style="height:100px; margin:0 10px;">
+    <img src="{{ "/assets/images/sponsors/wdt.png" | relative_url }}" alt="WDT Logo" style="height:100px; margin:0 10px;">
   </a>
 
 </div>
