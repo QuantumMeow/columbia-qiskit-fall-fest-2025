@@ -16,7 +16,7 @@ We’re excited to introduce the organizing team for **Columbia Qiskit Fall Fest
 ### Contributors
 - [Technology In Business Association](https://www.linkedin.com/company/technology-in-business-association/posts/)
 - [Columbia Venture Capital & Entrepreneurship Group](https://www.linkedin.com/company/columbia-venture-capital-entrepreneurship-group/posts/)
-- [Columbia Women in Data & Technology](https://www.linkedin.com/company/columbiawdt/posts/))
+- [Columbia Women in Data & Technology](https://www.linkedin.com/company/columbiawdt/posts/)
 
 
 Become a contributor to Columbia Qiskit Fall Fest 2025
