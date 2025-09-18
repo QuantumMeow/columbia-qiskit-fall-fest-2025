@@ -8,6 +8,10 @@ title: Columbia Qiskit Fall Fest 2025
 Welcome to the official site for Columbia University's Qiskit Fall Fest 2025!  
 Check back for updates on our schedule, speakers, and workshops.
 
+<a href="https://qiskit-columbia-2025-production.up.railway.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/QuantumMeow/columbia-qiskit-fall-fest-2025/main/assets/images/button_qiskit-event-website.png" alt="Qiskit Event Website" style="max-width: 300px;">
+</a>
+
 Register for updates and potential opportunities to contribute in our quantum events.  
 
 [👉 Register Here](https://forms.gle/hAKgMEhcr8v4KAwo8)
