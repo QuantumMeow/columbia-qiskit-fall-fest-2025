@@ -13,6 +13,8 @@ Get ready for Columbia University’s upcoming Quantum Hackathon, where students
 - **Intro to Qiskit** — Beginner-friendly coding workshop
 - **Quantum Algorithms** — Intermediate-level coding session
 
+_There may be certificates from IBM/Qiskit for students who complete hackathon_
+
 **Register for updates on upcoming quantum hackathon at Columbia Campus.**
 
 <a href="https://forms.gle/hAKgMEhcr8v4KAwo8" target="_blank">
