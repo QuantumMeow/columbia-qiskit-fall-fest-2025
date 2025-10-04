@@ -12,9 +12,12 @@ Check back for updates on our schedule, speakers, and workshops.
   <img src="https://raw.githubusercontent.com/QuantumMeow/columbia-qiskit-fall-fest-2025/main/assets/images/button_qiskit-event-website.png" alt="Qiskit Event Website" style="max-width: 300px;">
 </a>
 
-Register for updates and potential opportunities to contribute in our quantum events.  
+#### Register for updates and potential opportunities to contribute in our quantum events.  
 
-[👉 Register Here](https://forms.gle/hAKgMEhcr8v4KAwo8)
+<a href="https://forms.gle/hAKgMEhcr8v4KAwo8" target="_blank">
+  <img src="https://github.com/QuantumMeow/columbia-qiskit-fall-fest-2025/blob/main/assets/images/get-updates-button.png" alt="Qiskit Event Updates" style="max-width: 300px;">
+</a>
+
 
 ---
 
