@@ -5,14 +5,17 @@ title: Columbia Qiskit Fall Fest 2025
 📍 Columbia University, New York City  
 📅 Fall 2025 (stay tuned!)
 
-Welcome to the official site for Columbia University's Qiskit Fall Fest 2025!  
-Check back for updates on our schedule, speakers, and workshops.
+Welcome to the official site for **Columbia University’s Qiskit Fall Fest 2025** — part of **IBM Quantum’s** Qiskit Fall Fest series, bringing together students and researchers worldwide to explore the future of quantum computing.
+
+This page is your home base for event updates, workshop announcements, and opportunities to get involved with Columbia’s quantum computing community.
 
 <a href="https://qiskit-columbia-2025-production.up.railway.app/" target="_blank">
   <img src="https://raw.githubusercontent.com/QuantumMeow/columbia-qiskit-fall-fest-2025/main/assets/images/button_qiskit-event-website.png" alt="Qiskit Event Website" style="max-width: 300px;">
 </a>
 
-#### Register for updates and potential opportunities to contribute in our quantum events.  
+<br>
+
+**Register for updates on Columbia quantum events, meetups, and club formation.**
 
 <a href="https://forms.gle/hAKgMEhcr8v4KAwo8" target="_blank">
   <img src="https://raw.githubusercontent.com/QuantumMeow/columbia-qiskit-fall-fest-2025/main/assets/images/get-updates-button.png" alt="Qiskit Event Updates" style="max-width: 300px;">
