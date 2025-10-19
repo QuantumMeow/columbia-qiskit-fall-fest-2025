@@ -1,5 +1,5 @@
 ---
-title: Columbia Qiskit Fall Fest 2025
+title: Home
 ---
 
 📍 Columbia University, New York City  
