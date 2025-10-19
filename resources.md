@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Event Resources
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dZWz4Gs_BuI?si=NiFYF4dqkarVTba_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
